@@ -17,7 +17,7 @@ All the sensor measurements in the two experiments and the LiDAR SLAM results ar
 ![structure](https://github.com/GPumaLee/ZUST-Campus/assets/160859920/791d931a-94d8-4bd0-9b3f-d8962a3cdfc4)
 
 
-### Structure
+### Systems
 
 The data-collection system of this research consists of three parts: vehicle platform, ground truth system, and LiDAR SLAM module.
 
