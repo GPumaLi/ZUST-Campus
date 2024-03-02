@@ -11,3 +11,5 @@ All the sensor measurements in the two experiments and the LiDAR SLAM results ar
 (4)EVO Result: The evaluation results of the three LiDAR SLAM algorithms. The JPG files display the outputted mapping results and the trajectories of SLAM methods. The APE/RPE result files hold the evaluation results of the LiDAR SLAM method.
 
 (5)Video: The process of collecting data is recorded in an MP4 format video file.
+
+![structure](https://github.com/GPumaLee/ZUST-Campus/assets/160859920/791d931a-94d8-4bd0-9b3f-d8962a3cdfc4)
