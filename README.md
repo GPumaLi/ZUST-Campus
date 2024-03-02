@@ -1,6 +1,6 @@
 # ZUST-Campus
 
-
+### Structure****
 
 All the sensor measurements in the two experiments and the LiDAR SLAM results are stored in two directories, Experiment No.1 and Experiment No.2, respectively. Both directories contain the same subdirectories. The specific contents of these subdirectories are summarized as follows:
 
