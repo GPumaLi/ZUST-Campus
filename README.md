@@ -27,4 +27,4 @@ The data-collection system of this research consists of three parts: vehicle pla
 
 (3) SLAM module: The SLAM module is responsible for running the SLAM method in real-time so that the utility of the dataset can be verified in real-time as the data is collected. The hardware of the module is composed of LiDAR, IMU, and a high-performance PC. The IMU is fixed at the bottom of the LiDAR bracket; The onboard PC is placed in the copilot seat. The proposed method [1] is used to jointly calibrate the LiDAR and IMU. The software part of the SLAM module is implemented based on C++ language under the Robot Operating System (ROS) in Ubuntu 20.04.
 
-![车载系统](https://github.com/GPumaLee/ZUST-Campus/assets/160859920/d8a671df-89dc-46e4-82f7-f59850471d8b)
+![system](https://github.com/GPumaLee/ZUST-Campus/assets/160859920/d8a671df-89dc-46e4-82f7-f59850471d8b)
