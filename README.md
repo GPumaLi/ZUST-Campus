@@ -1,5 +1,9 @@
 # ZUST-Campus
 
+###Download
+
+If you want to use the ZUST Campus dataset, you can download our shared resources from [https://pan.baidu.com/s/1mY15V8aK_NTJ4UGctZBJlw?pwd=zy5q](url).
+
 ### Structure
 
 All the sensor measurements in the two experiments and the LiDAR SLAM results are stored in two directories, Experiment No.1 and Experiment No.2, respectively. Both directories contain the same subdirectories. The specific contents of these subdirectories are summarized as follows:
