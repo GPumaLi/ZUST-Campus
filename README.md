@@ -2,7 +2,7 @@
 
 ### Download
 
-If you want to use the ZUST Campus dataset, you can download our shared resources from [https://pan.baidu.com/s/1mY15V8aK_NTJ4UGctZBJlw?pwd=zy5q](url).
+If you want to use the ZUST Campus dataset, you can download our shared resources from [https://pan.baidu.com/s/1mY15V8aK_NTJ4UGctZBJlw?pwd=zy5q](https://pan.baidu.com/s/1mY15V8aK_NTJ4UGctZBJlw?pwd=zy5q).
 
 ### Structure
 
